@@ -1,5 +1,5 @@
 import { Section, Container, CountryInfo, Loader } from 'components';
-import { useLocation, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import { fetchCountry } from '../service/country-service';
 
