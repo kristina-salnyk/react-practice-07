@@ -1,8 +1,8 @@
 {
-  "name": "react-practice-08",
+  "name": "react-practice-07",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kristina-salnyk.github.io/react-practice-08/",
+  "homepage": "https://kristina-salnyk.github.io/react-practice-07/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
